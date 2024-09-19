@@ -2972,7 +2972,6 @@
                 element.addEventListener("keyup", keyup);
             });
         }
-    });
     let img = new Image;
     img.src = "https://raw.githubusercontent.com/005Konz/Blooket-Cheats/main/autoupdate/timestamps/gui.png?" + Date.now();
     img.crossOrigin = "Anonymous";
